@@ -1,5 +1,5 @@
 # OAC-Lab4
-4º laboratório da disciplina de Organização e Arquitetura de Computadores. Implementação de um processador multiciclo.
+4º laboratório da disciplina de Organização e Arquitetura de Computadores realizado no semestre 2021.1 pelos alunos Ana Sofia Schweizer Sivestre, Davi Jesus de Almeida Paturi e Victor Hugo França Lisboa. Implementação de um processador multiciclo.
 
 Lista de tarefas:
 - [x] Construir caminho de dados completo
